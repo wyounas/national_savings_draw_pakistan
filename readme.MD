@@ -6,13 +6,7 @@ You can use this command line script to search your prize bond draws on [Nationa
 
 # Why did I build this?
 
-In cloudless climes, it was a starry night. An old neighbour knocked on my door. He needed some help with his internet. I got my internet and computer and went to his place.
-
-"How can I help?", I asked.  "I have some prize bonds, can you please check if I have won anything in recent [National Savings](http://savings.gov.pk/draw-search/) draw." "Sure", I said. He then gave me a couple of prize-bond numbers. I quickly checked them. Sadly, he didn't win anything. I told him that and beg leave. "But we have 150 more numbers to check," he said. The process of searching in the draw at National Saving's website was tedious. My neighbour won two prizes. But that was one long night. 
-
-Came another draw a couple of months later. The old neighbour called again. I checked all his prize bond numbers again. The process was tedious. Had the National Savings website had the ability to create a secure account with them, save prize bond numbers, and alert people via email then the process would have been easy and convenient. Particularly for old people. 
-
-Another draw was announced. This time I wanted to make the whole process as fast as possible. So I created this script. You can run it from your machine. Save all your prize bond numbers in the NUMBERS list, run the script, and it will let you know and print if you've won anything. 
+I will add details soon.
 
 
 
